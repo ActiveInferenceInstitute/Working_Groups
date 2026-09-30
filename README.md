@@ -1,83 +1,152 @@
 # Active Inference Institute — Working Groups
 
-Working Groups are the Institute's community research groups: open,
-participatory teams that pair the Active Inference framework with a specific
-domain of science, practice, or application. They are where the Institute's
-wider community meets its research agenda — everyone is welcome to attend,
-contribute, and eventually to convene.
+This repository is the public home of the Active Inference Institute (AII)
+Working Groups initiative: the draft founding documents, and the place to
+review and comment on them ahead of the **Charter Development Session** at the
+[6th Applied Active Inference Symposium](https://symposium.activeinference.institute/)
+(online, 12–14 November 2026).
 
-Public overview: <https://activeinference.institute/working-groups/>
+- **Website:** <https://activeinference.institute/working-groups/>
+- **Position paper:** *Coordinating the Field: The Case for Ecosystem-Level
+  Technology Roadmapping and Community Working Groups in Active Inference*,
+  Active Inference Institute Working Paper Series, Version 1.0.0, September 2026.
+  [doi:10.5281/zenodo.23066904](https://doi.org/10.5281/zenodo.23066904)
+  (PDF, DOCX, and EPUB on Zenodo).
 
-## What a Working Group is
+## Founding documents
 
-- **Domain-focused.** Each group works at the intersection of Active Inference
-  and one domain (for example neuroscience, economics, or healthcare), turning
-  the general framework into domain-relevant questions, literature, models, and
-  projects.
-- **Open participation.** Groups meet in public sessions that anyone may join —
-  no application or affiliation required. See the [public
-  calendar](https://activeinference.institute/calendar/) for scheduled sessions.
-- **Publicly documented.** Sessions are recorded where possible, and each
-  group's sustained output lands in the Institute's public repositories and on
-  the website's domain pages.
+| Document | Version | Source in the position paper |
+| --- | --- | --- |
+| [Working Group Charter](docs/working_group_charter.md) | 1.0.0 (draft) | Appendix A |
+| [Operating Procedures](docs/operating_procedures.md) | 1.0.0 (draft) | Appendix B |
+| [Predecessor Governance Documents and Resources](docs/predecessor_documents.md) | 1.0.0 | Appendix C |
 
-## Current Working Groups
+The files in [`docs/`](docs/) are the living versions of the paper's
+appendices. The Zenodo record is a fixed snapshot; later changes land here and
+are recorded in the commit history. Both drafts are offered as a starting point:
+they carry no force until adopted at the Symposium (provisionally) and
+ratified within 90 days afterward.
 
-| Working Group | Website page |
+Two documents referenced by the Charter are not yet published: the **Domain
+Working Group Charter Template** (Charter §10.3) and the **AII Intellectual
+Property Policy, AII-POL-IP-001** (Charter §8.5, to be adopted by the AII Board
+and made public before the final Charter is ratified).
+
+## What is proposed
+
+The paper proposes one **Field Working Group** and a set of **domain working
+groups**, convened by AII, constituted by their members, and operating under a
+written charter with public outputs.
+
+**Field Working Group — year-one products**
+
+1. A terminology correspondence matrix for a defined set of core terms as used
+   in at least SPM/DEM, pymdp, and RxInfer.jl.
+2. A public comparison protocol, stratified into conceptual, algorithmic, and
+   numerical correspondence, with version pins, a stated equivalence rule, and
+   at least one worked example across two implementations.
+3. A shared domain-assessment framework, reviewed and agreed with constituted
+   domain groups.
+4. External review of the matrix and protocol by at least two reviewers who are
+   not AII Board members and were not drafters.
+
+**Domain working groups — year-one products**
+
+1. An audience and use-case note.
+2. One literacy or adaptation module, designed jointly by at least one
+   active-inference expert and at least one domain practitioner.
+3. Participation in the Field group's framework series, and an initial domain
+   assessment against the agreed framework.
+4. A published go/no-go on the group's continuation.
+
+**Formation floor.** A group is constituted when at least five individuals
+commit in writing to its year-one product. The Field group needs at least one
+person who maintains or actively uses an implementation in the initial
+comparison set. A domain group needs at least one active-inference expert and at
+least one domain practitioner actively working in the domain. The Symposium may
+amend the floor in the provisional Charter.
+
+**Safeguards.** Open membership with no fee and no AII membership required;
+consensus-seeking decisions with formal objections and minority reports;
+conflict-of-interest disclosure and recusal; a non-voting AII Liaison; AII
+publication review limited to institutional policy, institutional
+representations, and license terms; CC BY 4.0 outputs by default; a twelve-month
+pilot evaluation with a stop rule; and a five-year sunset review. AII may not
+dissolve a working group.
+
+## Candidate domains
+
+The paper's suggestion list for possible domain groups (Section 8). Any
+non-deferred candidate that meets the formation floor and participation
+conditions may form; there is no cap, and combined labels may be split on
+community feedback.
+
+- Healthcare and clinical medicine
+- Neuroscience
+- Mental health and psychiatry
+- Education and learning science
+- Artificial intelligence and AGI
+- Robotics, drones, and autonomous systems
+- Finance and economic decision-making
+- Climate and environmental science
+- Cybersecurity
+- Defense and national security applications *(deferred from the pilot year
+  pending ethics review procedures; listed for awareness only)*
+- Logistics
+
+## Founding timeline
+
+| When | What |
 | --- | --- |
-| Active Inference and Agriculture | [agriculture](https://activeinference.institute/active-inference/agriculture/) |
-| Active Inference and Climate Science | [climate](https://activeinference.institute/active-inference/climate/) |
-| Active Inference and Computational Tools | [computational](https://activeinference.institute/active-inference/computational/) |
-| Active Inference and Cybersecurity | [cybersecurity](https://activeinference.institute/active-inference/cybersecurity/) |
-| Active Inference and Ecology | [ecology](https://activeinference.institute/active-inference/ecology/) |
-| Active Inference and Economics | [economics](https://activeinference.institute/active-inference/economics/) |
-| Active Inference and Education | [education](https://activeinference.institute/active-inference/education/) |
-| Active Inference and Entomology | [entomology](https://activeinference.institute/active-inference/entomology/) |
-| Active Inference and Healthcare | [healthcare](https://activeinference.institute/active-inference/healthcare/) |
-| Active Inference and Law and Policy | [law](https://activeinference.institute/active-inference/law/) |
-| Active Inference and Linguistics | [linguistics](https://activeinference.institute/active-inference/linguistics/) |
-| Active Inference and Medicine | [medicine](https://activeinference.institute/active-inference/medicine/) |
-| Active Inference and Music and Sound | [music](https://activeinference.institute/active-inference/music/) |
-| Active Inference and Neuroscience | [neuroscience](https://activeinference.institute/active-inference/neuroscience/) |
-| Active Inference and Psychology | [psychology](https://activeinference.institute/active-inference/psychology/) |
-| Active Inference and Robotics | [robotics](https://activeinference.institute/active-inference/robotics/) |
-| Active Inference and the Scientific Method | [scientific-method](https://activeinference.institute/active-inference/scientific-method/) |
-| Active Inference and Social | [social](https://activeinference.institute/active-inference/social/) |
-| Active Inference and Urban Planning | [urban-planning](https://activeinference.institute/active-inference/urban-planning/) |
+| Now – November 2026 | Public review of the draft Charter and Operating Procedures in this repository. |
+| Phase 1 — Symposium, 12–14 November 2026 | Provisional adoption of the Charter and Operating Procedures (90-day period); constitution of the Field group and of every non-deferred domain that meets the conditions; election of interim Chairs and Vice Chairs; a 90-day Phase 2 calendar; provisional adoption of the seven-stage assessment framework as starting text. |
+| Phase 2 — within 90 days | Ratification of the final documents by a two-thirds supermajority of the combined active membership; confirmation of the framework starting text; Year One Work Plans; officer elections under the ratified Charter. |
+| Within 12 months | Pilot evaluation and stop rule (Charter Article XII). |
 
-## Joining a group
+## How to participate
 
-1. Find the group's next public session on the [public
-   calendar](https://activeinference.institute/calendar/).
-2. Attend — sessions are open to everyone, from first-time learners to domain
-   experts.
-3. Keep coming back and pick up work: reviewing literature, building models,
-   writing notes, improving materials.
+1. **Read** the [Charter](docs/working_group_charter.md) and
+   [Operating Procedures](docs/operating_procedures.md).
+2. **Comment or propose a change** by
+   [opening an issue](https://github.com/ActiveInferenceInstitute/Working_Groups/issues/new/choose).
+   Name the document and section, the concern, and the change that would
+   resolve it.
+3. **Register for the Symposium** (free, online) at
+   <https://registersymposium2026.activeinference.institute/>. The Charter
+   Development Session is open to all registered participants, with remote
+   participation, and attending carries no obligation to join a group.
+4. **Express interest** in the Field Working Group or a domain group by opening
+   an issue that names the group and the role(s) you could fill
+   (active-inference expert, domain practitioner, or implementation maintainer
+   or user). This helps organizers plan the session; it is not by itself the
+   written commitment described in Charter §3.4.
 
-## Proposing a new group
+Active members are expected to attend four quarterly meetings of about ninety
+minutes and to contribute to at least one year-one product. All meetings are
+remote.
 
-A new Working Group starts as a proposal, not an application:
+## Related resources
 
-1. Open an issue in this repository describing the domain, the questions the
-   group would pursue, and why now.
-2. Gather at least one other committed participant.
-3. Institute coordinators review proposals, schedule a first public session on
-   the calendar, and add the group to the roster above and to the [Working
-   Groups page](https://activeinference.institute/working-groups/).
+- [Active Inference Ontology](https://github.com/ActiveInferenceInstitute/Active_Inference_Ontology)
+  — a starting point for the Field group's terminology work.
+- The website's [Active Inference and X](https://activeinference.institute/active-inference/)
+  domain pages collect existing domain resources. They are not constituted
+  working groups.
+- [Public calendar](https://activeinference.institute/calendar/) ·
+  [Get involved](https://activeinference.institute/get-involved/)
 
-## Where things live
+## Citation
 
-- **This repository** — the roster, proposals (issues), and per-group notes.
-- **[activeinference.institute](https://activeinference.institute/)** — the
-  public website: the [Working Groups
-  page](https://activeinference.institute/working-groups/), the [public
-  calendar](https://activeinference.institute/calendar/), domain pages, and the
-  [repository directory](https://activeinference.institute/directory/).
-- **Per-group repositories** — long-lived artifacts a group produces get their
-  own repo in the [ActiveInferenceInstitute
-  organization](https://github.com/ActiveInferenceInstitute).
+Please cite the position paper (see also [`CITATION.cff`](CITATION.cff)):
+
+> Ober, E., Maren, A., Friston, K. J., Hurtado, A. M., Pashea, A., Friedman, D.,
+> Sabine, A., & Safron, A. (2026). *Coordinating the Field: The Case for
+> Ecosystem-Level Technology Roadmapping and Community Working Groups in Active
+> Inference* (Active Inference Institute Working Paper Series, Version 1.0.0).
+> Active Inference Institute. https://doi.org/10.5281/zenodo.23066904
 
 ## License
 
-Content in this repository is released under the Active Inference Institute's
-standard open license, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Content in this repository is released under
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/),
+the Active Inference Institute's standard open license.

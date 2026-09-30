@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use or refer to these documents, please cite the position paper below."
+title: "Active Inference Institute Working Groups: founding documents"
+type: dataset
+authors:
+  - name: "Active Inference Institute"
+    website: "https://activeinference.institute/"
+license: CC-BY-4.0
+repository-code: "https://github.com/ActiveInferenceInstitute/Working_Groups"
+url: "https://activeinference.institute/working-groups/"
+keywords:
+  - active inference
+  - working groups
+  - technology roadmapping
+  - research coordination
+  - community governance
+preferred-citation:
+  type: report
+  title: "Coordinating the Field: The Case for Ecosystem-Level Technology Roadmapping and Community Working Groups in Active Inference"
+  collection-title: "Active Inference Institute Working Paper Series"
+  version: "1.0.0"
+  doi: "10.5281/zenodo.23066904"
+  url: "https://doi.org/10.5281/zenodo.23066904"
+  date-published: "2026-09-30"
+  year: 2026
+  license: CC-BY-4.0
+  publisher:
+    name: "Active Inference Institute"
+  authors:
+    - family-names: "Ober"
+      given-names: "Edward"
+      affiliation: "Active Inference Institute, Board of Directors"
+    - family-names: "Maren"
+      given-names: "Alianna"
+      affiliation: "Active Inference Institute, Board of Directors"
+    - family-names: "Friston"
+      given-names: "Karl J."
+      affiliation: "Queen Square Institute of Neurology, University College London (UCL)"
+    - family-names: "Hurtado"
+      given-names: "Ana Magdalena"
+      affiliation: "Active Inference Institute, Board of Directors; School of Human Evolution and Social Change, Arizona State University"
+    - family-names: "Pashea"
+      given-names: "Andrew"
+      affiliation: "Active Inference Institute Scientific Advisory Board"
+    - family-names: "Friedman"
+      given-names: "Daniel"
+      affiliation: "Active Inference Institute; College of the Redwoods (CA, USA)"
+    - family-names: "Sabine"
+      given-names: "Alexander"
+      affiliation: "Active Inference Institute Board of Directors"
+    - family-names: "Safron"
+      given-names: "Adam"
+      affiliation: "Active Inference Institute Scientific Advisory Board; Allen Discovery Center, Tufts University"
