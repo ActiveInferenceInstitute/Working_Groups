@@ -9,9 +9,14 @@ review and comment on them ahead of the **Charter Development Session** at the
 - **Website:** <https://activeinference.institute/working-groups/>
 - **Position paper:** *Coordinating the Field: The Case for Ecosystem-Level
   Technology Roadmapping and Community Working Groups in Active Inference*,
-  Active Inference Institute Working Paper Series, Version 1.0.0, September 2026.
+  Active Inference Institute Working Paper Series, Version 1.0.0, published
+  30 September 2026.
   [doi:10.5281/zenodo.23066904](https://doi.org/10.5281/zenodo.23066904)
-  (PDF, DOCX, and EPUB on Zenodo).
+  (all versions: [doi:10.5281/zenodo.23066903](https://doi.org/10.5281/zenodo.23066903)).
+  Copies of the published files are in [`paper/`](paper/):
+  [PDF](paper/Active_Inference_Coordinating_the_Field_v1.0.0.pdf) ·
+  [DOCX](paper/Active_Inference_Coordinating_the_Field_v1.0.0.docx) ·
+  [EPUB](paper/Active_Inference_Coordinating_the_Field_v1.0.0.epub).
 
 ## Founding documents
 
@@ -22,8 +27,9 @@ review and comment on them ahead of the **Charter Development Session** at the
 | [Predecessor Governance Documents and Resources](docs/predecessor_documents.md) | 1.0.0 | Appendix C |
 
 The files in [`docs/`](docs/) are the living versions of the paper's
-appendices. The Zenodo record is a fixed snapshot; later changes land here and
-are recorded in the commit history. Both drafts are offered as a starting point:
+appendices. The published paper (on Zenodo, and mirrored unchanged in
+[`paper/`](paper/)) is a fixed snapshot; later changes land in `docs/` and are
+recorded in the commit history. Both drafts are offered as a starting point:
 they carry no force until adopted at the Symposium (provisionally) and
 ratified within 90 days afterward.
 
@@ -124,6 +130,14 @@ community feedback.
 Active members are expected to attend four quarterly meetings of about ninety
 minutes and to contribute to at least one year-one product. All meetings are
 remote.
+
+## Repository layout
+
+| Path | Contents |
+| --- | --- |
+| [`docs/`](docs/) | Living versions of the Charter, Operating Procedures, and predecessor documents |
+| [`paper/`](paper/) | The position paper as published on Zenodo (v1.0.0; PDF, DOCX, EPUB; unchanged copies) |
+| [`CITATION.cff`](CITATION.cff) | Citation metadata for the position paper |
 
 ## Related resources
 
