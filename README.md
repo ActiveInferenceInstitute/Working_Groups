@@ -7,7 +7,7 @@ This repository is the public home of the Active Inference Institute (AII)
 Working Groups initiative: the draft founding documents, and the place to
 review and comment on them ahead of the **Charter Development Session** at the
 [6th Applied Active Inference Symposium](https://symposium.activeinference.institute/)
-(online, 12–14 November 2026).
+(online, 12–13 November 2026).
 
 - **Website:** <https://activeinference.institute/working-groups/>
 - **Position paper:** *Coordinating the Field: The Case for Ecosystem-Level
