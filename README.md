@@ -1,5 +1,8 @@
 # Active Inference Institute — Working Groups
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23066904.svg)](https://doi.org/10.5281/zenodo.23066904)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 This repository is the public home of the Active Inference Institute (AII)
 Working Groups initiative: the draft founding documents, and the place to
 review and comment on them ahead of the **Charter Development Session** at the
@@ -116,7 +119,7 @@ community feedback.
 2. **Comment or propose a change** by
    [opening an issue](https://github.com/ActiveInferenceInstitute/Working_Groups/issues/new/choose).
    Name the document and section, the concern, and the change that would
-   resolve it.
+   resolve it (see [`CONTRIBUTING.md`](CONTRIBUTING.md)).
 3. **Register for the Symposium** (free, online) at
    <https://registersymposium2026.activeinference.institute/>. The Charter
    Development Session is open to all registered participants, with remote
@@ -138,6 +141,7 @@ remote.
 | [`docs/`](docs/) | Living versions of the Charter, Operating Procedures, and predecessor documents |
 | [`paper/`](paper/) | The position paper as published on Zenodo (v1.0.0; PDF, DOCX, EPUB; unchanged copies) |
 | [`CITATION.cff`](CITATION.cff) | Citation metadata for the position paper |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to comment, propose text changes, and express interest in a group |
 
 ## Related resources
 
@@ -157,7 +161,7 @@ Please cite the position paper (see also [`CITATION.cff`](CITATION.cff)):
 > Sabine, A., & Safron, A. (2026). *Coordinating the Field: The Case for
 > Ecosystem-Level Technology Roadmapping and Community Working Groups in Active
 > Inference* (Active Inference Institute Working Paper Series, Version 1.0.0).
-> Active Inference Institute. https://doi.org/10.5281/zenodo.23066904
+> Active Inference Journal. https://doi.org/10.5281/zenodo.23066904
 
 ## License
 
