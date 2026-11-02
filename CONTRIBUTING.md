@@ -7,7 +7,7 @@ The draft [Charter](docs/working_group_charter.md) and
 [Operating Procedures](docs/operating_procedures.md) are open to community
 review, comment, and suggested changes, and to amendment before or at the
 Charter Development Session of the 6th Applied Active Inference Symposium
-(online, 12–14 November 2026).
+(online, 12–13 November 2026).
 
 ## Comment on the founding documents
 

@@ -108,7 +108,7 @@ community feedback.
 | When | What |
 | --- | --- |
 | Now – November 2026 | Public review of the draft Charter and Operating Procedures in this repository. |
-| Phase 1 — Symposium, 12–14 November 2026 | Provisional adoption of the Charter and Operating Procedures (90-day period); constitution of the Field group and of every non-deferred domain that meets the conditions; election of interim Chairs and Vice Chairs; a 90-day Phase 2 calendar; provisional adoption of the seven-stage assessment framework as starting text. |
+| Phase 1 — Symposium, 12–13 November 2026 | Provisional adoption of the Charter and Operating Procedures (90-day period); constitution of the Field group and of every non-deferred domain that meets the conditions; election of interim Chairs and Vice Chairs; a 90-day Phase 2 calendar; provisional adoption of the seven-stage assessment framework as starting text. |
 | Phase 2 — within 90 days | Ratification of the final documents by a two-thirds supermajority of the combined active membership; confirmation of the framework starting text; Year One Work Plans; officer elections under the ratified Charter. |
 | Within 12 months | Pilot evaluation and stop rule (Charter Article XII). |
 
