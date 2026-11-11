@@ -18,12 +18,14 @@ land here and are recorded in the commit history.
 
 ## Status
 
-All three documents are **drafts for community review**. They carry no force
-until adopted at the Charter Development Session of the 6th Applied Active
-Inference Symposium (online, 12–13 November 2026) and ratified within 90 days
-afterward. Two further documents referenced by the Charter are not yet
-published: the **Domain Working Group Charter Template** (Charter §10.3) and the
-**AII Intellectual Property Policy, AII-POL-IP-001** (Charter §8.5).
+The Working Group Charter and Operating Procedures are **drafts for community
+review**; the Predecessor Governance Documents and Resources is a reference
+bibliography. The drafts carry no force until adopted at the Charter Development
+Session of the 6th Applied Active Inference Symposium (online, 12–13 November
+2026) and ratified within 90 days afterward. Two further documents referenced by
+the Charter are not yet published: the **Domain Working Group Charter Template**
+(Charter §10.3) and the **AII Intellectual Property Policy, AII-POL-IP-001**
+(Charter §8.5).
 
 ## How these documents change
 
