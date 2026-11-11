@@ -1,0 +1,79 @@
+# AII sidecar — InstituteOS metadata. Schema: aii_platform.aii_sidecar
+meta:
+  sidecar_version: 1.2.1
+  updated: '2026-11-10'
+repo:
+  name: Working_Groups
+  slug: working-groups
+  full_name: ActiveInferenceInstitute/Working_Groups
+  description: 'Public home of the Active Inference Institute Working Groups initiative:
+    draft founding documents and the reviewed position paper Coordinating the Field
+    (doi:10.5281/zenodo.23066904).'
+institute:
+  category: governance
+  steward: Active Inference Institute
+ecosystem:
+  relations:
+  - repo: ActiveInferenceInstitute/InstituteOS
+    relation: referenced-by
+    note: Federated via the InstituteOS .aii manifest.
+  - repo: ActiveInferenceInstitute/Active_Inference_Ontology
+    note: Uses Active Inference Ontology terms.
+  - repo: ActiveInferenceInstitute/ActiveInferenceJournal
+    relation: referenced-by
+    note: Featured in Institute materials.
+  - repo: ActiveInferenceInstitute/pymdp
+    relation: depends-on
+    note: Consumes the pymdp active-inference library.
+  links:
+    website: https://www.activeinference.org
+    github: https://github.com/ActiveInferenceInstitute/Working_Groups
+artifacts:
+- path: README.md
+  kind: doc
+  description: Repository overview.
+- path: LICENSE
+  kind: doc
+  description: License.
+- path: AGENTS.md
+  kind: doc
+  description: Agent guidance.
+- path: CITATION.cff
+  kind: citation
+  description: Machine-readable citation metadata.
+- path: docs
+  kind: doc
+  description: Documentation tree.
+- path: paper
+  kind: publication
+  description: Published paper artifacts.
+provenance:
+  license: CC-BY-4.0
+  citation:
+    doi: 10.5281/zenodo.23066904.svg
+    text: Active Inference Institute — Working_Groups.
+instituteos:
+  tags:
+  - governance
+  - working-groups
+  - charter
+  - roadmapping
+capabilities:
+- documentation
+- governance-documents
+- citation
+- doi
+tasks:
+  docs:
+    cmd: ls docs
+    description: List documentation.
+  inventory:
+    cmd: git ls-files
+    description: List tracked documents and paper artifacts.
+docs:
+- README.md
+- AGENTS.md
+- docs/INTEGRATION.md
+- docs/README.md
+- docs/AGENTS.md
+schema: aii-sidecar/v1

@@ -168,3 +168,11 @@ Please cite the position paper (see also [`CITATION.cff`](CITATION.cff)):
 Content in this repository is released under
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/),
 the Active Inference Institute's standard open license.
+
+## InstituteOS sidecar
+
+This repository carries a committed [`.aii/`](.aii/README.md) sidecar with curated
+InstituteOS metadata (`aii-sidecar/v1`): category, maturity, ecosystem relations,
+key artifacts, provenance, and portable tasks. It is read by
+[InstituteOS](https://github.com/ActiveInferenceInstitute/InstituteOS) tooling and
+does not affect the project's build or runtime.

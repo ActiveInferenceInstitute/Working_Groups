@@ -1,0 +1,11 @@
+{
+  "schema": "aii-readiness/v1",
+  "repo": "ActiveInferenceInstitute/Working_Groups",
+  "tier": "content-data",
+  "standard_version": "1.0.0",
+  "baseline": {
+    "commit": "e48964a22cc04399476ba19b7ad718dcba5fb23c",
+    "measured_at": "2026-11-10"
+  },
+  "waivers": []
+}
