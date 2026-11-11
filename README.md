@@ -117,7 +117,7 @@ community feedback.
 1. **Read** the [Charter](docs/working_group_charter.md) and
    [Operating Procedures](docs/operating_procedures.md).
 2. **Comment or propose a change** by
-   [opening an issue](https://github.com/ActiveInferenceInstitute/Working_Groups/issues/new/choose).
+   [opening an issue](https://github.com/ActiveInferenceInstitute/Working_Groups/issues/new).
    Name the document and section, the concern, and the change that would
    resolve it (see [`CONTRIBUTING.md`](CONTRIBUTING.md)).
 3. **Register for the Symposium** (free, online) at
@@ -142,6 +142,12 @@ remote.
 | [`paper/`](paper/) | The position paper as published on Zenodo (v1.0.0; PDF, DOCX, EPUB; unchanged copies) |
 | [`CITATION.cff`](CITATION.cff) | Citation metadata for the position paper |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to comment, propose text changes, and express interest in a group |
+| [`AGENTS.md`](AGENTS.md) | Guidance for automated agents working in this repository |
+| [`LICENSE`](LICENSE) | CC BY 4.0 license text |
+| [`.aii/`](.aii/README.md) | Committed InstituteOS metadata sidecar |
+
+There is no build, packaging, or test suite: the repository holds Markdown
+documents and the published PDF, DOCX, and EPUB files.
 
 ## Related resources
 

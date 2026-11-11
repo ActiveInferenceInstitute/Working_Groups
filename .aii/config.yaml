@@ -1,7 +1,7 @@
 # AII sidecar — InstituteOS metadata. Schema: aii_platform.aii_sidecar
 meta:
   sidecar_version: 1.2.1
-  updated: '2026-11-10'
+  updated: '2026-11-11'
 repo:
   name: Working_Groups
   slug: working-groups
@@ -10,7 +10,10 @@ repo:
     draft founding documents and the reviewed position paper Coordinating the Field
     (doi:10.5281/zenodo.23066904).'
 institute:
+  affiliation: institute
   category: governance
+  status: active
+  maturity: wip
   steward: Active Inference Institute
 ecosystem:
   relations:
@@ -18,13 +21,15 @@ ecosystem:
     relation: referenced-by
     note: Federated via the InstituteOS .aii manifest.
   - repo: ActiveInferenceInstitute/Active_Inference_Ontology
-    note: Uses Active Inference Ontology terms.
+    note: Listed as a starting point for the proposed Field Working Group's terminology
+      work; no ontology content is vendored here.
   - repo: ActiveInferenceInstitute/ActiveInferenceJournal
-    relation: referenced-by
-    note: Featured in Institute materials.
+    relation: references
+    note: The repository's position paper was published in the Active Inference Journal.
   - repo: ActiveInferenceInstitute/pymdp
-    relation: depends-on
-    note: Consumes the pymdp active-inference library.
+    relation: references
+    note: Named in the proposed Field Working Group's terminology comparison set;
+      this repository carries no pymdp code or dependency.
   links:
     website: https://www.activeinference.org
     github: https://github.com/ActiveInferenceInstitute/Working_Groups
@@ -50,7 +55,7 @@ artifacts:
 provenance:
   license: CC-BY-4.0
   citation:
-    doi: 10.5281/zenodo.23066904.svg
+    doi: 10.5281/zenodo.23066904
     text: Active Inference Institute — Working_Groups.
 instituteos:
   tags:

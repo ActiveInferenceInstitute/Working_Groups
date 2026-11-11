@@ -31,9 +31,9 @@
 | Repository | Relation | Note |
 | --- | --- | --- |
 | `ActiveInferenceInstitute/InstituteOS` | `referenced-by` | Federated via the InstituteOS .aii manifest. |
-| `ActiveInferenceInstitute/Active_Inference_Ontology` | `references` | Uses Active Inference Ontology terms. |
-| `ActiveInferenceInstitute/ActiveInferenceJournal` | `referenced-by` | Featured in Institute materials. |
-| `ActiveInferenceInstitute/pymdp` | `depends-on` | Consumes the pymdp active-inference library. |
+| `ActiveInferenceInstitute/Active_Inference_Ontology` | `references` | Listed as a starting point for the proposed Field Working Group's terminology work; no ontology content is vendored here. |
+| `ActiveInferenceInstitute/ActiveInferenceJournal` | `references` | The repository's position paper was published in the Active Inference Journal. |
+| `ActiveInferenceInstitute/pymdp` | `references` | Named in the proposed Field Working Group's terminology comparison set; this repository carries no pymdp code or dependency. |
 
 ## Key artifacts
 

@@ -19,6 +19,9 @@ Public home of the Active Inference Institute Working Groups initiative: draft f
 | `docs` | `ls docs` | `.` |
 | `inventory` | `git ls-files` | `.` |
 
+There is no build or test suite: the repository contains Markdown documents
+(`docs/`), the published paper artifacts (`paper/`), and `CITATION.cff`.
+
 ## InstituteOS sidecar
 
 This repository carries a committed [`.aii/`](.aii/README.md) sidecar with curated
