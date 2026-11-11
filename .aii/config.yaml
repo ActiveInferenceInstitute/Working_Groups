@@ -43,6 +43,12 @@ artifacts:
 - path: AGENTS.md
   kind: doc
   description: Agent guidance.
+- path: CONTRIBUTING.md
+  kind: doc
+  description: How to comment, propose text changes, and express interest in a group.
+- path: TODO.md
+  kind: doc
+  description: Owner-facing documentation gaps, defects, and decisions.
 - path: CITATION.cff
   kind: citation
   description: Machine-readable citation metadata.

@@ -42,6 +42,8 @@
 | `README.md` | `doc` | Repository overview. |
 | `LICENSE` | `doc` | License. |
 | `AGENTS.md` | `doc` | Agent guidance. |
+| `CONTRIBUTING.md` | `doc` | How to comment, propose text changes, and express interest in a group. |
+| `TODO.md` | `doc` | Owner-facing documentation gaps, defects, and decisions. |
 | `CITATION.cff` | `citation` | Machine-readable citation metadata. |
 | `docs` | `doc` | Documentation tree. |
 | `paper` | `publication` | Published paper artifacts. |

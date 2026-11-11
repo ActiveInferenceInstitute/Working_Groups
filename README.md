@@ -21,7 +21,22 @@ review and comment on them ahead of the **Charter Development Session** at the
   [DOCX](paper/Active_Inference_Coordinating_the_Field_v1.0.0.docx) ·
   [EPUB](paper/Active_Inference_Coordinating_the_Field_v1.0.0.epub).
 
+## Contents
+
+- [Founding documents](#founding-documents)
+- [What is proposed](#what-is-proposed)
+- [Candidate domains](#candidate-domains)
+- [Founding timeline](#founding-timeline)
+- [How to participate](#how-to-participate)
+- [Repository layout](#repository-layout)
+- [Related resources](#related-resources)
+- [Citation](#citation)
+- [License](#license)
+
 ## Founding documents
+
+The full index of the living documents, with their status and how they change,
+is in [`docs/README.md`](docs/README.md).
 
 | Document | Version | Source in the position paper |
 | --- | --- | --- |
@@ -138,11 +153,12 @@ remote.
 
 | Path | Contents |
 | --- | --- |
-| [`docs/`](docs/) | Living versions of the Charter, Operating Procedures, and predecessor documents |
-| [`paper/`](paper/) | The position paper as published on Zenodo (v1.0.0; PDF, DOCX, EPUB; unchanged copies) |
+| [`docs/`](docs/README.md) | Living versions of the Charter, Operating Procedures, and predecessor documents (see the [documentation index](docs/README.md)) |
+| [`paper/`](paper/README.md) | The position paper as published on Zenodo (v1.0.0; PDF, DOCX, EPUB; unchanged copies) |
 | [`CITATION.cff`](CITATION.cff) | Citation metadata for the position paper |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to comment, propose text changes, and express interest in a group |
 | [`AGENTS.md`](AGENTS.md) | Guidance for automated agents working in this repository |
+| [`TODO.md`](TODO.md) | Owner-facing documentation gaps and decisions |
 | [`LICENSE`](LICENSE) | CC BY 4.0 license text |
 | [`.aii/`](.aii/README.md) | Committed InstituteOS metadata sidecar |
 
