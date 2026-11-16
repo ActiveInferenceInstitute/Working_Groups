@@ -118,6 +118,10 @@ community feedback.
   pending ethics review procedures; listed for awareness only)*
 - Logistics
 
+Community suggestion for consideration:
+
+- [Organizational Development and Management](https://github.com/ActiveInferenceInstitute/Working_Groups/issues/4)
+
 ## Founding timeline
 
 | When | What |
